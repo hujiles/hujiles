@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hujil//es</h1>
+  <h1>huji</h1>
   <br>
   <img src="https://i.imgur.com/1rwEu2F.gif">
   <h2>𝗔𝗕𝗢𝗨𝗧</h2>
